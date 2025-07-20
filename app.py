@@ -120,11 +120,3 @@ if st.button("📥 Export Results to Excel"):
         file_name=f"f1_race_simulation_results_{int(finish_time*1000)}ms.xlsx",
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     )
-
-
-
-
-streamlit
-plotly
-numpy
-openpyxl
