@@ -1,5 +1,5 @@
 # “””
-F1 in Schools · Race Simulator
+F1 in Schools Race Simulator
 
 Physics-based CO₂ rocket car performance model.
 
