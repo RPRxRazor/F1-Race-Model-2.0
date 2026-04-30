@@ -5,7 +5,7 @@ Physics-based CO2 rocket car performance model.
 
 Fixes applied vs previous version:
 
-- Simulation wrapped in @st.cache_data — only reruns when inputs change
+- Simulation wrapped in @st.cache_data only reruns when inputs change
 - acceleration list initialised at [0.0], no post-hoc length patch
 - Static/kinetic friction state handled with explicit launched flag
 - Thrust hard-cutoff to zero once canister is modelled as empty
