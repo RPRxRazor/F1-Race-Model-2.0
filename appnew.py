@@ -9,7 +9,7 @@ Fixes applied vs previous version:
 - acceleration list initialised at [0.0], no post-hoc length patch
 - Static/kinetic friction state handled with explicit launched flag
 - Thrust hard-cutoff to zero once canister is modelled as empty
-- Named constants block — no magic numbers in simulation loop
+- Named constants block no magic numbers in simulation loop
 - Variable names no longer shadow Python builtins (time → t_vals, etc.)
 - Downsampling shows exact row count, handles short runs gracefully
 - to_excel() defined once, called once (was called twice before)
