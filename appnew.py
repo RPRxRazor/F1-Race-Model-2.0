@@ -13,7 +13,7 @@ Fixes applied vs previous version:
 - Variable names no longer shadow Python builtins (time t_vals, etc.)
 - Downsampling shows exact row count, handles short runs gracefully
 - to_excel() defined once, called once (was called twice before)
-  ””
+  
 
 import streamlit as st
 import plotly.graph_objects as go
