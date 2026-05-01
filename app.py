@@ -1,8 +1,6 @@
-# “””
-F1 in Schools - Race Simulator
+# F1 in Schools - Race Simulator
+# Physics-based CO2 rocket car performance model.
 
-Physics-based CO2 rocket car performance model.
-“””
 
 import streamlit as st
 import plotly.graph_objects as go
